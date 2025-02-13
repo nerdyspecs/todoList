@@ -15,20 +15,20 @@ namespace TodoList.Controllers
         {
             _context = context;
         }
-        //// Display List
+        // HomePage
         public ActionResult Index()
         {
             var todos = _context.Todos.ToList();
             return View(todos);
         }
 
-        // Add Item (GET)
+        // View for add Todo
         public ActionResult Create()
         {
             return View();
         }
 
-        // Add Item (POST)
+        // Add Todo
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create(Todo todo)
@@ -42,7 +42,7 @@ namespace TodoList.Controllers
             return RedirectToAction("Index");
         }
 
-        // Delete Item
+        // Delete Todo
         public ActionResult Delete(int id)
         {
             var todo = _context.Todos.Find(id);
@@ -53,8 +53,5 @@ namespace TodoList.Controllers
             }
             return RedirectToAction("Index");
         }
-
-        // Create Item
-
     }
 }

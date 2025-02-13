@@ -7,6 +7,8 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Declare InMemory as my database
 builder.Services.AddDbContext<TodoListDbContext>(static options =>
     options.UseInMemoryDatabase("InMemoryDb")
 );
