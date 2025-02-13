@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teckhong\\source\\repos\\TodoList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98DE8855-9972-4D3D-977D-8229016092EC}|TodoList\\TodoList.csproj|c:\\users\\teckhong\\source\\repos\\todolist\\todolist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DE8855-9972-4D3D-977D-8229016092EC}|TodoList\\TodoList.csproj|solutionrelative:todolist\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DE8855-9972-4D3D-977D-8229016092EC}|TodoList\\TodoList.csproj|c:\\users\\teckhong\\source\\repos\\todolist\\todolist\\views\\todos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DE8855-9972-4D3D-977D-8229016092EC}|TodoList\\TodoList.csproj|solutionrelative:todolist\\views\\todos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DE8855-9972-4D3D-977D-8229016092EC}|TodoList\\TodoList.csproj|c:\\users\\teckhong\\source\\repos\\todolist\\todolist\\views\\todos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DE8855-9972-4D3D-977D-8229016092EC}|TodoList\\TodoList.csproj|solutionrelative:todolist\\views\\todos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DE8855-9972-4D3D-977D-8229016092EC}|TodoList\\TodoList.csproj|c:\\users\\teckhong\\source\\repos\\todolist\\todolist\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DE8855-9972-4D3D-977D-8229016092EC}|TodoList\\TodoList.csproj|solutionrelative:todolist\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DE8855-9972-4D3D-977D-8229016092EC}|TodoList\\TodoList.csproj|c:\\users\\teckhong\\source\\repos\\todolist\\todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DE8855-9972-4D3D-977D-8229016092EC}|TodoList\\TodoList.csproj|solutionrelative:todolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DE8855-9972-4D3D-977D-8229016092EC}|TodoList\\TodoList.csproj|c:\\users\\teckhong\\source\\repos\\todolist\\todolist\\data\\todolistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DE8855-9972-4D3D-977D-8229016092EC}|TodoList\\TodoList.csproj|solutionrelative:todolist\\data\\todolistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DE8855-9972-4D3D-977D-8229016092EC}|TodoList\\TodoList.csproj|c:\\users\\teckhong\\source\\repos\\todolist\\todolist\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DE8855-9972-4D3D-977D-8229016092EC}|TodoList\\TodoList.csproj|solutionrelative:todolist\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 204,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\teckhong\\source\\repos\\TodoList\\TodoList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TodoList\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\teckhong\\source\\repos\\TodoList\\TodoList\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TodoList\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T13:26:17.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teckhong\\source\\repos\\TodoList\\TodoList\\Program.cs",
+              "RelativeDocumentMoniker": "TodoList\\Program.cs",
+              "ToolTip": "C:\\Users\\teckhong\\source\\repos\\TodoList\\TodoList\\Program.cs",
+              "RelativeToolTip": "TodoList\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:17:43.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\teckhong\\source\\repos\\TodoList\\TodoList\\Views\\Todos\\Create.cshtml",
+              "RelativeDocumentMoniker": "TodoList\\Views\\Todos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\teckhong\\source\\repos\\TodoList\\TodoList\\Views\\Todos\\Create.cshtml",
+              "RelativeToolTip": "TodoList\\Views\\Todos\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T13:03:59.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\teckhong\\source\\repos\\TodoList\\TodoList\\Views\\Todos\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoList\\Views\\Todos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\teckhong\\source\\repos\\TodoList\\TodoList\\Views\\Todos\\Index.cshtml",
+              "RelativeToolTip": "TodoList\\Views\\Todos\\Index.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-13T12:58:06.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "C:\\Users\\teckhong\\source\\repos\\TodoList\\TodoList\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "TodoList\\Controllers\\TodosController.cs",
+              "ToolTip": "C:\\Users\\teckhong\\source\\repos\\TodoList\\TodoList\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "TodoList\\Controllers\\TodosController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wCkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:49:59.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoListDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\teckhong\\source\\repos\\TodoList\\TodoList\\Data\\TodoListDbContext.cs",
+              "RelativeDocumentMoniker": "TodoList\\Data\\TodoListDbContext.cs",
+              "ToolTip": "C:\\Users\\teckhong\\source\\repos\\TodoList\\TodoList\\Data\\TodoListDbContext.cs",
+              "RelativeToolTip": "TodoList\\Data\\TodoListDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:45:35.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\teckhong\\source\\repos\\TodoList\\TodoList\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TodoList\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\teckhong\\source\\repos\\TodoList\\TodoList\\Models\\Todo.cs",
+              "RelativeToolTip": "TodoList\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T12:40:53.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
